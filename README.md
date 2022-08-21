@@ -1,4 +1,4 @@
-# Derivadas
+# Derivates with the  SymPy function
 This program teaches to use the library SymPy to solve complex mathematical problems of infinitesimal calculus.
 
 First step
