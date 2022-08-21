@@ -17,6 +17,9 @@ After installation, it is best to verify that your freshly-installed SymPy works
 $ python
 >>> from sympy import *
 
+Three step 
+
+From here, run some simple SymPy statements like the one in the executable.
 
 
 
