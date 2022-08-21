@@ -3,7 +3,9 @@ This program teaches to use the library SymPy to solve complex mathematical prob
 
 First step
 
-Review in your computer the installation python3. If you already have a version of python installed, check it out and but update. To review Version of the sistem in the console python3 --version 
+Review in your computer the installation python3. If you already have a version of python installed, check it out and but update. To review Version of the sistem in the console
+
+>>>python3 --version 
 
 Second step
 
@@ -16,7 +18,7 @@ following
 >>> pip install sympy. 
 
 After installation, it is best to verify that your freshly-installed SymPy works. To do this, start up Python and import the SymPy libraries:
-python
+
 >>> from sympy import *
 
 Three step 
