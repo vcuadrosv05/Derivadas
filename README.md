@@ -3,27 +3,27 @@ This program teaches to use the library SymPy to solve complex mathematical prob
 
 First step
 
-Review in your computer the installation python3. If you already have a version of python installed, check it out and but update. To review Version of the sistem in the console
+   Review in your computer the installation python3. If you already have a version of python installed, check it out and but update. To review Version of      the sistem in the console
 
->>>python3 --version 
+   >>>python3 --version 
 
 Second step
 
-Copy in the console
+   Copy in the console
 
->>> pip install mpmath
+   >>> pip install mpmath
 
-following
+   following
 
->>> pip install sympy. 
+   >>> pip install sympy. 
 
-After installation, it is best to verify that your freshly-installed SymPy works. To do this, start up Python and import the SymPy libraries:
+   After installation, it is best to verify that your freshly-installed SymPy works. To do this, start up Python and import the SymPy libraries:
 
->>> from sympy import *
+   >>> from sympy import *
 
 Three step 
-
-From here, run some simple SymPy statements like the one in the executable.
+ 
+   From here, run some simple SymPy statements like the one in the executable.
 
 
 
