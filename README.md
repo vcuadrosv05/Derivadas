@@ -14,7 +14,7 @@ Second step
 
    following
 
-   >>> pip install sympy. 
+   >>> pip install sympy
 
    After installation, it is best to verify that your freshly-installed SymPy works. To do this, start up Python and import the SymPy libraries:
 
